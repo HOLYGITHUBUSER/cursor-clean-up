@@ -2,6 +2,8 @@
 
 一键清理、安装、配置 Cursor 的完整方案。
 
+A complete toolkit to fully reset Cursor on macOS. Run `cleanup-cursor.sh` to wipe all user data, caches, and configs, restoring Cursor to a fresh install state. Then run `install-cursor.sh` to reinstall Cursor via Homebrew and automatically set up the CursorProMax extension. One command to do it all: `./cleanup-cursor.sh && ./install-cursor.sh`. Useful when you want a clean slate, troubleshoot issues, or switch accounts.
+
 ## 文件说明
 
 | 文件 | 用途 |
